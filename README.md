@@ -31,5 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savya-lol&show_icons=true&locale=en&layout=compact" alt="savya-lol" /></p>
 
-<p>&nbsp; <img align="center src="https://raw.githubusercontent.com/Savya-lol/Savya-lol/output/snake.svg" alt="Snake animation" /> </p>
+<p>&nbsp; <img align="center" src="https://raw.githubusercontent.com/Savya-lol/Savya-lol/output/snake.svg" alt="Snake animation" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savya-lol&" alt="savya-lol" /></p>
