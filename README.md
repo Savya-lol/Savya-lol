@@ -33,3 +33,7 @@
 
 <p>&nbsp; <img align="center" src="https://raw.githubusercontent.com/Savya-lol/Savya-lol/output/snake.svg" alt="Snake animation" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savya-lol&" alt="savya-lol" /></p>
+
+
+<a href="https://app.daily.dev/voidbotz"><img src="https://api.daily.dev/devcards/v2/b1GtaH3szcZNRnVxAgZjm.png?r=zum&type=wide" width="652" alt="Savya Bikram Shah's Dev Card"/></a>
+
