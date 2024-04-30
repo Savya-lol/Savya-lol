@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/savyalol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="savyalol" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/savya bikram shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savya bikram shah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/savya-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savya bikram shah" height="30" width="40" /></a>
 <a href="https://fb.com/savya shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="savya shah" height="30" width="40" /></a>
 <a href="https://instagram.com/public_void_savya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="public_void_savya" height="30" width="40" /></a>
 <a href="https://discord.gg/yT6A26e6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yT6A26e6" height="30" width="40" /></a>
