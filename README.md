@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Unity Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Savya-lol/](https://github.com/Savya-lol/)
+- 👨‍💻 All of my projects are available at [My Linkedin](https://np.linkedin.com/in/savya-shah)
 
 - 💬 Ask me about **Unity, Arduino**
 
