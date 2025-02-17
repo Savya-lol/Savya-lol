@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savya Bikram Shah</h1>
-<h3 align="center">A passionate Unity and .Net developer</h3>
+<h3 align="center">A passionate Game Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savya-lol&label=Profile%20views&color=0e75b6&style=flat" alt="savya-lol" /> </p>
 
