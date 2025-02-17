@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savya-lol" alt="savya-lol" /></a> </p>
 
-- 🔭 I’m currently working on [HelpDesk AI](https://github.com/Savya-lol/HelpDeskAI)
+- 🔭 I’m currently working on [Kidsage AI](https://kidsage.ai/en/)
 
-- 🌱 I’m currently learning **Asp .Net**
+- 🌱 I’m currently mastering **Unity Programming**
 
 - 👯 I’m looking to collaborate on **Unity Projects**
 
